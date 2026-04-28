@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+Major_Project/node_modules/
+Major_Project/dist/
+Major_Project/.env
+Major_Project/data/layouts/*.json
+Major_Project/data/logs/*.log
+!Major_Project/data/layouts/.gitkeep
+!Major_Project/data/logs/.gitkeep
+.vscode/
+.DS_Store
