@@ -21,11 +21,12 @@ An interactive floor-plan navigation system designed for the APJ Block. This app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DZ1shetty/Smart_Nav.git
+   git clone https://github.com/DhanushR2904/MJ.git
    ```
 
 2. Install dependencies:
    ```bash
+   cd Major_Project
    npm install
    ```
 
